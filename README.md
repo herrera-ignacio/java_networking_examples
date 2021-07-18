@@ -2,4 +2,6 @@
 
 The following are some fairly simple examples of network programming with Java.
 
-* [Printing Network Interfaces](network_interfaces)
+* [Print Network Interfaces](network_interfaces)
+* [Get URL info](get_url_info)
+* [Get URI info](get_uri_info)
