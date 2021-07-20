@@ -8,3 +8,4 @@ The following are some fairly simple examples of network programming with Java.
 * [Get IP Address](get_inet_address)
 * [Time App - Client/Server](time_app)
 * [QOTD App using UDP](qotd)
+* [HTTP File Downloader](http_file_download)
