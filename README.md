@@ -7,3 +7,4 @@ The following are some fairly simple examples of network programming with Java.
 * [Get URI info](get_uri_info)
 * [Get IP Address](get_inet_address)
 * [Time App - Client/Server](time_app)
+* [QOTD App using UDP](qotd)
