@@ -12,3 +12,4 @@ The following are some fairly simple examples of network programming with Java.
 * [HTTP Get Request](http_get_request)
 * [Who Is - Client](who_is)
 * [NIST Time](nist_time)
+* [SMTP Mail Sender](smtp_sender)

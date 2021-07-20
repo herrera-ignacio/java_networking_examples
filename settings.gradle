@@ -1,3 +1,4 @@
 rootProject.name = 'java_networking_examples'
 include 'network_interfaces'
+include 'smtp_sender'
 
